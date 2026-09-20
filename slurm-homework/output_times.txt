@@ -1,0 +1,5 @@
+Average execution time for correlation.c: 1.726
+Average execution time for doitgen.c: 1.012
+Average execution time for dynprog.c: 1.027
+Average execution time for floyd-warshall.c: 3.867
+Average execution time for jacobi-2d-imper.c: .172

@@ -1,0 +1,65 @@
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./correlation_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./doitgen_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./dynprog_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./floyd-warshall_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+/usr/bin/time: cannot run ./jacobi-2d-imper_base.out: No such file or directory
+
+===== SLURM IS ISTATISTIKLERI (JOB STATISTICS) ========================
+Job ID: 288704
+Cluster: altay
+User/Group: ttopcu/pafo20
+State: FAILED (exit code 127)
+Nodes: 1
+Cores per node: 128
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 00:04:16 core-walltime
+Job Wall-clock time: 00:00:02
+Memory Utilized: 0.00 MB (estimated maximum)
+Memory Efficiency: 0.00% of 244.14 GB (244.14 GB/node)
+
+=======================================================================
